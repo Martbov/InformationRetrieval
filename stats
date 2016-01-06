@@ -1,0 +1,91 @@
+Trial 0
+
+Correct: 470 out of 587 (80.07 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 127  73  :200  63.50%
+ 1 non-innovatief  44 343  :387  88.63%
+
+Trial 1
+
+Correct: 479 out of 587 (81.60 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 127  73  :200  63.50%
+ 1 non-innovatief  35 352  :387  90.96%
+
+Trial 2
+
+Correct: 454 out of 587 (77.34 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 112  88  :200  56.00%
+ 1 non-innovatief  45 342  :387  88.37%
+
+Trial 3
+
+Correct: 489 out of 587 (83.30 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 138  62  :200  69.00%
+ 1 non-innovatief  36 351  :387  90.70%
+
+Trial 4
+
+Correct: 482 out of 587 (82.11 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 130  70  :200  65.00%
+ 1 non-innovatief  35 352  :387  90.96%
+
+Trial 5
+
+Correct: 472 out of 587 (80.41 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 124  76  :200  62.00%
+ 1 non-innovatief  39 348  :387  89.92%
+
+Trial 6
+
+Correct: 473 out of 587 (80.58 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 118  82  :200  59.00%
+ 1 non-innovatief  32 355  :387  91.73%
+
+Trial 7
+
+Correct: 469 out of 587 (79.90 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 123  77  :200  61.50%
+ 1 non-innovatief  41 346  :387  89.41%
+
+Trial 8
+
+Correct: 476 out of 587 (81.09 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 123  77  :200  61.50%
+ 1 non-innovatief  34 353  :387  91.21%
+
+Trial 9
+
+Correct: 462 out of 587 (78.71 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+        classname   0   1  :total
+ 0     innovatief 121  79  :200  60.50%
+ 1 non-innovatief  46 341  :387  88.11%
+
+Percent_Accuracy  average 80.51 stderr 0.51

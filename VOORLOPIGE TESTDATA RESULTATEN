@@ -1,0 +1,40 @@
+VOORLOPIGE TESTDATA RESULTATEN
+
+- Methoden
+	- Tokenizeren
+	- Stemmen met Porter Stemmer
+
+- Bestanden schrijven
+	- Creëer random bestand namen
+	- Waarde 1/2 voor een categorie naar map
+	- Waarde 4/5 voor een categorie naar map
+
+- Rainbow
+	- 2 categorieën categorizeren met -T 4000 (4000 meest informatieve woorden)
+	- 10 Crossfold test doen voor Accuracy met methode Naive Bayes
+
+-- Resultaten
+1) Introvert / Extravert
+	Extravert accuracy schommelt rond 35/40%
+	Introvert accuracy schommelt rond 96 %
+	Gemiddelde over 10 tests: 80.64%
+
+2) Instabiel / Stabiel
+	Instabiel accuracy schommelt rond 90%
+	Stabiel accuracy schommelt rond 40%
+	Gemiddelde over 10 tests: 79%
+
+3) Onvriendelijk / Vriendelijk
+	Onvriendelijk accuracy schommelt rond 80%
+	Vriendelijk accuracy schommelt rond 80%
+	Gemiddelde over 10 tests: 78.66 %
+
+4) Onzorvuldig / Zorgvuldig
+	Onzorgvuldig accuracy schommelt rond 80%
+	Zorgvuldig accuracy schommelt rond 75%
+	Gemiddelde over 10 tests: 78.74%
+
+5) Non-innovatief / innovatief
+	Non-innovatief accuracy schommelt rond 88%
+	Innovatief accuracy schommelt rond 60%
+	Gemiddelde over 10 tests: 79.40%

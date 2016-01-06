@@ -1,0 +1,91 @@
+Trial 0
+
+Correct: 454 out of 586 (77.47 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 376  27  :403  93.30%
+ 1   stabiel 105  78  :183  42.62%
+
+Trial 1
+
+Correct: 465 out of 586 (79.35 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 389  14  :403  96.53%
+ 1   stabiel 107  76  :183  41.53%
+
+Trial 2
+
+Correct: 456 out of 586 (77.82 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 378  25  :403  93.80%
+ 1   stabiel 105  78  :183  42.62%
+
+Trial 3
+
+Correct: 466 out of 586 (79.52 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 382  21  :403  94.79%
+ 1   stabiel  99  84  :183  45.90%
+
+Trial 4
+
+Correct: 465 out of 586 (79.35 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 380  23  :403  94.29%
+ 1   stabiel  98  85  :183  46.45%
+
+Trial 5
+
+Correct: 466 out of 586 (79.52 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 387  16  :403  96.03%
+ 1   stabiel 104  79  :183  43.17%
+
+Trial 6
+
+Correct: 471 out of 586 (80.38 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 380  23  :403  94.29%
+ 1   stabiel  92  91  :183  49.73%
+
+Trial 7
+
+Correct: 464 out of 586 (79.18 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 380  23  :403  94.29%
+ 1   stabiel  99  84  :183  45.90%
+
+Trial 8
+
+Correct: 478 out of 586 (81.57 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 388  15  :403  96.28%
+ 1   stabiel  93  90  :183  49.18%
+
+Trial 9
+
+Correct: 471 out of 586 (80.38 percent accuracy)
+
+ - Confusion details, row is actual, column is predicted
+   classname   0   1  :total
+ 0 instabiel 392  11  :403  97.27%
+ 1   stabiel 104  79  :183  43.17%
+
+Percent_Accuracy  average 79.45 stderr 0.36
